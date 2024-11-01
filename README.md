@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2756-buy-two-chocolates](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [2756-buy-two-chocolates](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0383-ransom-note) |
+## Greedy
+|  |
+| ------- |
+| [2756-buy-two-chocolates](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
