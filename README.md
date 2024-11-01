@@ -153,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
 <!---LeetCode Topics End-->
