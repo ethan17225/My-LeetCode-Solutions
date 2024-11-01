@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1760-check-array-formation-through-concatenation](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1760-check-array-formation-through-concatenation) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1760-check-array-formation-through-concatenation](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1760-check-array-formation-through-concatenation) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2159-two-out-of-three) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2406-decode-the-message](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2406-decode-the-message) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1635-number-of-good-pairs](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 ## Greedy
 |  |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2159-two-out-of-three) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Counting Sort
