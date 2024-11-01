@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2155-find-missing-observations](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2159-two-out-of-three](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2159-two-out-of-three) |
 | [2756-buy-two-chocolates](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2155-find-missing-observations](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Prefix Sum
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2155-find-missing-observations](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Game Theory
 |  |
