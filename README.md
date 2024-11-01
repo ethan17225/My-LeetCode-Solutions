@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Array
 |  |
