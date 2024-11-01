@@ -139,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
