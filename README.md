@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1283-reformat-date](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1283-reformat-date) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Counting
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Database
 |  |
 | ------- |
