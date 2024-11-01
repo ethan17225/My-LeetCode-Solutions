@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0724-find-pivot-index](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1256-rank-transform-of-an-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Counting
