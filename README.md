@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2406-decode-the-message](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2406-decode-the-message) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1760-check-array-formation-through-concatenation](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1760-check-array-formation-through-concatenation) |
+| [2406-decode-the-message](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2406-decode-the-message) |
 ## Sorting
 |  |
 | ------- |
