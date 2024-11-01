@@ -72,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 <!---LeetCode Topics End-->
