@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2155-find-missing-observations](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2159-two-out-of-three](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2159-two-out-of-three) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2350-find-closest-number-to-zero](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2502-sort-the-people](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2502-sort-the-people) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Bit Manipulation
 |  |
 | ------- |
