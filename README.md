@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1161-project-employees-i) |
