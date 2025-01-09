@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2154-minimum-moves-to-convert-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2406-decode-the-message](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2580-circular-sentence) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2159-two-out-of-three](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2159-two-out-of-three) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2350-find-closest-number-to-zero](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2502-sort-the-people](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2502-sort-the-people) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Stack
 |  |
 | ------- |
