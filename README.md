@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2756-buy-two-chocolates](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2756-buy-two-chocolates) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3533-snake-in-matrix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3533-snake-in-matrix) |
 ## Hash Table
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Sorting
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2551-apply-operations-to-an-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3533-snake-in-matrix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3533-snake-in-matrix) |
 ## Game Theory
