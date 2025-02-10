@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3447-clear-digits](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3451-string-compression-iii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3533-snake-in-matrix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3533-snake-in-matrix) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2551-apply-operations-to-an-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3533-snake-in-matrix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3533-snake-in-matrix) |
 ## Game Theory
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3447-clear-digits](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
