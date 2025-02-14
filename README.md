@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2155-find-missing-observations](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Search
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -277,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
