@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-reformat-date](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1283-reformat-date) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
