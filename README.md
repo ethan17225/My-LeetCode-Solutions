@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0724-find-pivot-index](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0777-toeplitz-matrix) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1256-rank-transform-of-an-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -306,4 +308,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
