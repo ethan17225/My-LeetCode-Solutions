@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [1135-customers-who-bought-all-products](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1135-customers-who-bought-all-products) |
