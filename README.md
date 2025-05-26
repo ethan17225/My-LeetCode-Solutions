@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-check-array-formation-through-concatenation](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1760-check-array-formation-through-concatenation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2159-two-out-of-three](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2159-two-out-of-three) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 ## Greedy
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Database
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1916-find-center-of-star-graph) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Sliding Window
 |  |
 | ------- |
@@ -327,4 +331,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
