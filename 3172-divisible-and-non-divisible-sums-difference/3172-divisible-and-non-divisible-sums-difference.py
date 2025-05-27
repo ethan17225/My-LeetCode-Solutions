@@ -6,11 +6,17 @@ class Solution:
         if m == n:
             return sum([x for x in range(1, n)]) - n
 
-        arr = [x for x in range(1, n+1)]
-        total = sum(arr)
-        non_divisible_arr_total = sum([x for x in arr if x % m != 0])
+        total = non_divisible_total = 0
+        i = 1
 
-        return non_divisible_arr_total - (total - non_divisible_arr_total)
+        while i <= n:
+            total += i
+            if i % m != 0:
+                non_divisible_total += i
+
+            i += 1
+
+        return non_divisible_total - (total - non_divisible_total)
 
     
 
