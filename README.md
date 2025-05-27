@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Prefix Sum
 |  |
