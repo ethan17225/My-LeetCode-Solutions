@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0135-candy) |
 | [0228-summary-ranges](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0724-find-pivot-index](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0777-toeplitz-matrix) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0135-candy) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2154-minimum-moves-to-convert-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
