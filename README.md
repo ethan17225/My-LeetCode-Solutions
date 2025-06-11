@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-snake-in-matrix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3533-snake-in-matrix) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Array
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Union Find
 |  |
 | ------- |
