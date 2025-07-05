@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1760-check-array-formation-through-concatenation](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1760-check-array-formation-through-concatenation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
