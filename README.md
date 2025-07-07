@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1256-rank-transform-of-an-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0135-candy) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2154-minimum-moves-to-convert-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2434-design-a-number-container-system](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
