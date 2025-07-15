@@ -6,7 +6,6 @@ class Solution:
         counter = {
             "vowel": 0,
             "consonant": 0,
-            "digit": 0
         }
 
         for c in word:
@@ -17,10 +16,7 @@ class Solution:
                 else:
                     counter["consonant"] += 1
 
-            elif c.isdigit():
-                counter["digit"] += 1
-
-            else:
+            elif not c.isdigit():
                 return False
 
         return True if counter["vowel"] > 0 and counter["consonant"] > 0 else False
