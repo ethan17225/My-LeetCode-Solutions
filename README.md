@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3533-snake-in-matrix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3533-snake-in-matrix) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Database
 |  |
