@@ -1,33 +1,19 @@
 class Solution:
     def makeFancyString(self, s: str) -> str:
-        chars = []
-        i = 0
-        j = 1
         n = len(s)
+        if n < 3:
+            return s
 
-        while j < n:
-            if s[i] == s[j]:
-                chars.append(s[i])
-                chars.append(s[j])
-                j += 1
-
-                while j < n:
-                    if s[i] == s[j]:
-                        j += 1
-                    else:
-                        break
-
-            else:
-                chars.append(s[i])
-
-            i = j
-            j += 1
-
-        if i < n:
-            chars.append(s[i])
-
+        stack = [s[0], s[1]]
+        i = 2
         
 
-        
+        while i < n:
+            if s[i] == s[i-1] and s[i] == s[i-2]:
+                i += 1
+                continue
 
-        return "".join(chars)
+            stack.append(s[i])
+            i+=1
+
+        return "".join(stack)
