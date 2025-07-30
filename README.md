@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2502-sort-the-people](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2756-buy-two-chocolates](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -457,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
