@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0135-candy) |
 | [0228-summary-ranges](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0228-summary-ranges) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
