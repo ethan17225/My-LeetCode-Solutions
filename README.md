@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0056-merge-intervals](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0777-toeplitz-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
