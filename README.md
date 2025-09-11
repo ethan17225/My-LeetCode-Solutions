@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2887-sort-vowels-in-a-string](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3447-clear-digits) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2689-rearranging-fruits](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2756-buy-two-chocolates](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2756-buy-two-chocolates) |
+| [2887-sort-vowels-in-a-string](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
