@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2756-buy-two-chocolates](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2689-rearranging-fruits](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Greedy
 |  |
