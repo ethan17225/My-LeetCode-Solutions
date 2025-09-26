@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0135-candy) |
 | [0228-summary-ranges](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0498-diagonal-traverse](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0611-valid-triangle-number](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0777-toeplitz-matrix) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0611-valid-triangle-number](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1256-rank-transform-of-an-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0611-valid-triangle-number](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0135-candy) |
+| [0611-valid-triangle-number](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ethan17225/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0611-valid-triangle-number](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
