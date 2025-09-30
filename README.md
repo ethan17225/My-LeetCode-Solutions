@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2350-find-closest-number-to-zero](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2155-find-missing-observations](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ethan17225/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Enumeration
 |  |
