@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
