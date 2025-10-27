@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2154-minimum-moves-to-convert-string) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2406-decode-the-message](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2406-decode-the-message) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2155-find-missing-observations](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1876-map-of-highest-peak](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Trie
