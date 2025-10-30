@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ethan17225/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ethan17225/My-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ethan17225/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Graph
 |  |
